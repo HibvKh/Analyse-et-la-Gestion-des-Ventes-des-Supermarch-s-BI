@@ -14,3 +14,7 @@ Intégration d'outils avancés comme Snowflake pour le stockage cloud et Python 
 📈 Impact : Grâce à cette solution, les supermarchés peuvent prendre des décisions basées sur des données concrètes, anticiper les besoins des clients et améliorer leur compétitivité dans un marché en constante évolution.
 
 Un grand merci à notre encadrant, Dr. MARZOUKI, pour son soutien et ses conseils précieux tout au long du projet.
+![image](https://github.com/user-attachments/assets/5037b36a-d634-4eeb-92c7-58a02d99839a)
+![image](https://github.com/user-attachments/assets/38f0fbbe-eca4-4849-88d3-de7f52cf7a78)
+![image](https://github.com/user-attachments/assets/ca5f4ecf-9f7f-4017-845c-a0851f32b3bc)
+
